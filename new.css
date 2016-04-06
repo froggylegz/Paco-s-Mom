@@ -1,6 +1,9 @@
 #main {
       background-color: pink;
 }
+p{
+      color: red;
+}
 .intro{
       color: green;
 }
