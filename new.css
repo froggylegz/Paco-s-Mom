@@ -1,10 +1,13 @@
 #main {
       background-color: maroon;
 }
+
+h1 {
+      text-size: 125px;
+}
+
 .intro{
       color: blue;
-      text-size: 28px;
-      
 }
 
 div {
